@@ -53,7 +53,4 @@ function hideElement() {
     let addresspara = document.getElementById('addresspara');
     addresspara.innerText = "800-555-5555"
 
-}; 
-
-
-
+};
